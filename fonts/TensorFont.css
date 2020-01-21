@@ -1,0 +1,39 @@
+@font-face {
+  font-family: EmojiFont;
+  src: url(cdn/EmojiFont-IE/TFEmojiFont.eot);
+  src: url(cdn/EmojiFont-IE/TFEmojiFont.eot@) format('embedded-opentype'), url(cdn/EmojiFont/TFEmojiFont.woff2) format('woff2');
+  font-weight: 400;
+  font-style: normal
+}
+
+@font-face {
+  font-family: TensorFont;
+  src: url(cdn/TensorFont-IE/TensorFont/TensorFont.eot);
+  src: url(cdn/TensorFont-IE/TensorFont/TensorFont.eot@) format('embedded-opentype'), url(cdn/TensorFont/TensorFont/TensorFont.woff2) format('woff2');
+  font-weight: 400;
+  font-style: normal
+}
+
+@font-face {
+  font-family: TensorFont;
+  src: url(cdn/TensorFont-IE/TensorFontBold/TensorFontBold.eot);
+  src: url(cdn/TensorFont-IE/TensorFontBold/TensorFontBold.eot@) format('embedded-opentype'), url(cdn/TensorFont/TensorFontBold/TensorFontBold.woff2) format('woff2');
+  font-weight: 700;
+  font-style: normal
+}
+
+@font-face {
+  font-family: TensorFont;
+  src: url(cdn/TensorFont-IE/TensorFontBoldItalic/TensorFontBoldItalic.eot);
+  src: url(cdn/TensorFont-IE/TensorFontBoldItalic/TensorFontBoldItalic.eot@) format('embedded-opentype'), url(cdn/TensorFont/TensorFontBoldItalic/TensorFontBoldItalic.woff2) format('woff2');
+  font-weight: 700;
+  font-style: italic
+}
+
+@font-face {
+  font-family: TensorFont;
+  src: url(cdn/TensorFont-IE/TensorFontItalic/TensorFontItalic.eot);
+  src: url(cdn/TensorFont-IE/TensorFontItalic/TensorFontItalic.eot@) format('embedded-opentype'), url(cdn/TensorFont/TensorFontItalic/TensorFontItalic.woff2) format('woff2');
+  font-weight: 400;
+  font-style: italic
+}
